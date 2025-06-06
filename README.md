@@ -55,8 +55,8 @@ A aplicação está hospedada na Vercel e pode ser acessada por:
 🔗 Repositório no GitHub:
 👉 https://github.com/pateihara/global-solution-redebairro
 
-🎥 Vídeo pitch em breve disponível.
-👉 https://global-solution-redebairro.vercel.app
+🎥 Vídeo pitch:
+👉  https://youtu.be/jsCXD_X8deg
 
 👥 Equipe de Desenvolvimento
 
